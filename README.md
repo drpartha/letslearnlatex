@@ -1,5 +1,5 @@
-let's learn latex
-==============
+Let's Learn LaTeX
+==================
 
 ebook for learning LaTeX by hacking
 
